@@ -1,0 +1,1122 @@
+[
+    {
+        "question_id": 1,
+        "question": "小红和小丽是同学，也住在同一条街，她们总是一起上学，可是每天一出家门就一个向左走，一个向右走，这是怎么回事呢?",
+        "answer": "他们的家门是相对着的",
+        "response": "她们的家分别在街的两边。",
+        "is_correct": true
+    },
+    {
+        "question_id": 2,
+        "question": "在一次监察严密的考试中，有两个学生交了一模一样的考卷。主考官发现后，却并没有认为他们作弊，这是什么原因?",
+        "answer": "二张考卷交得都是白卷",
+        "response": "因为这两份试卷都是白卷。",
+        "is_correct": true
+    },
+    {
+        "question_id": 3,
+        "question": "张大妈整天说个不停，可有一个月她说话最少，那是哪个月?",
+        "answer": "二月份",
+        "response": "那一个月是**二月**，因为二月份只有28天（闰年为29天），相对来说天数最少，所以说的话也最少。\n",
+        "is_correct": true
+    },
+    {
+        "question_id": 4,
+        "question": "报纸上登的消息不一定百分之百是真的，但什么消息绝对假不了?",
+        "answer": "报纸上的年、月、日",
+        "response": "答案是：**报纸上的寻人启事**。\n\n因为寻人启事通常是家属或当事人发布的，目的是为了寻找失踪的人，一般不会出现虚假的信息。即使是恶作剧，也会被迅速识破并承担相应责任。相比之下，报纸上的其他新闻可能会受到各种因素的影响，真实性需要进一步核实。\n",
+        "is_correct": false
+    },
+    {
+        "question_id": 5,
+        "question": "早晨醒来，每个人都会去做的第一件事是什么?",
+        "answer": "睁眼",
+        "response": "答案是：**睁开眼睛**\n",
+        "is_correct": true
+    },
+    {
+        "question_id": 6,
+        "question": "一架飞机坐满了人，从万米高空落下坠毁，为什么却一个伤者也没有?",
+        "answer": "没有伤者，都摔死了",
+        "response": "因为飞机是在飞行模拟器里。",
+        "is_correct": false
+    },
+    {
+        "question_id": 7,
+        "question": "要想使梦成为现实，我们干的第一件事会是什么?",
+        "answer": "醒来",
+        "response": "醒过来。",
+        "is_correct": true
+    },
+    {
+        "question_id": 8,
+        "question": "什么东西人们都不喜欢吃?",
+        "answer": "吃亏",
+        "response": "亏本的食物。",
+        "is_correct": false
+    },
+    {
+        "question_id": 9,
+        "question": "一向准时的老处女在上班途中，发现被一名男子跟踪，心中暗惊，而当她赶到办公室时，竟意外地迟到了，为什么?",
+        "answer": "因为那跟踪者走得太慢",
+        "response": "因为那名男子是她的闹钟，她一直没起床！ \n",
+        "is_correct": false
+    },
+    {
+        "question_id": 10,
+        "question": "别人跟阿丹说她的衣服怎么没衣扣，她却不在乎，为什么?",
+        "answer": "因为她的衣服只有拉链没有扣子",
+        "response": "因为她是穿着旗袍。",
+        "is_correct": false
+    },
+    {
+        "question_id": 11,
+        "question": "女人翻跟头——打一外国城市名",
+        "answer": "芭比论（巴比伦）",
+        "response": "索菲亚",
+        "is_correct": false
+    },
+    {
+        "question_id": 12,
+        "question": "裤裆里放鞭炮——打一军事用品",
+        "answer": "炸弹",
+        "response": "答案：**炸裤（炸药）**\n",
+        "is_correct": false
+    },
+    {
+        "question_id": 13,
+        "question": "避孕套——打一地名。",
+        "answer": "包头",
+        "response": "安全区",
+        "is_correct": false
+    },
+    {
+        "question_id": 14,
+        "question": "小刘是个很普通的人，为什么竟然能一连十几个小时不眨眼?",
+        "answer": "睡觉的时候",
+        "response": "小刘在睡觉。\n",
+        "is_correct": true
+    },
+    {
+        "question_id": 15,
+        "question": "情人卡、生日卡、大大小小的卡，到底要寄什么卡给女人，最能博得她的欢心呢?",
+        "answer": "信用卡",
+        "response": "答案：**喜刷刷**（洗刷刷）的卡。",
+        "is_correct": false
+    },
+    {
+        "question_id": 16,
+        "question": "小王走路从来脚不沾地，这是为什么?",
+        "answer": "因为穿着鞋子",
+        "response": "因为小王是一只鸟/天使/鬼魂等（选一个非人类的答案）。 \n",
+        "is_correct": false
+    },
+    {
+        "question_id": 17,
+        "question": "什么地方开口说话要付钱?",
+        "answer": "电话亭",
+        "response": "打电话的时候要付钱。",
+        "is_correct": true
+    },
+    {
+        "question_id": 18,
+        "question": "冬冬的爸爸牙齿非常好，可是他经常去口腔医院，为什么?",
+        "answer": "因为他是牙科医生",
+        "response": "冬冬的爸爸是牙医。\n",
+        "is_correct": true
+    },
+    {
+        "question_id": 19,
+        "question": "盖楼要从第几层开始盖?",
+        "answer": "从第一层开始盖",
+        "response": "第一层。\n",
+        "is_correct": true
+    },
+    {
+        "question_id": 20,
+        "question": "为什么大雁秋天要飞到南方去?",
+        "answer": "因为走太慢了",
+        "response": "因为走过去太慢了。\n",
+        "is_correct": true
+    },
+    {
+        "question_id": 21,
+        "question": "什么门永远关不上?",
+        "answer": "球门",
+        "response": "球门。",
+        "is_correct": true
+    },
+    {
+        "question_id": 22,
+        "question": "胖妞生病了，最怕别人来探病时说什么?",
+        "answer": "多多保重",
+        "response": "不怕，就来这吧！",
+        "is_correct": false
+    },
+    {
+        "question_id": 23,
+        "question": "阿明给蚊子咬了一大一小的包，请问较大的包，是公蚊子咬的，还是母蚊子咬的?",
+        "answer": "母蚊子咬的，因为只有母蚊子吸血",
+        "response": "母蚊子咬的。因为只有母蚊子才吸血。",
+        "is_correct": true
+    },
+    {
+        "question_id": 24,
+        "question": "某个警察有个弟弟，但弟弟却否认有个哥哥，为什么?",
+        "answer": "因为警察是女的",
+        "response": "因为警察的弟弟是个小偷。",
+        "is_correct": false
+    },
+    {
+        "question_id": 25,
+        "question": "什么东西比乌鸦更讨厌?",
+        "answer": "乌鸦嘴",
+        "response": "答案是：乌鸦嘴。",
+        "is_correct": true
+    },
+    {
+        "question_id": 26,
+        "question": "刚买的袜子为什么会有一个洞?",
+        "answer": "袜口",
+        "response": "因为那是袜口。\n",
+        "is_correct": true
+    },
+    {
+        "question_id": 27,
+        "question": "什么时候子女相逢能并肩?",
+        "answer": "好",
+        "response": "答案：**当他们的母亲结婚时**。 \n\n这是一个利用中文词语多重含义的脑筋急转弯。这里的“子女”指的是“子”和“女”，也就是儿子和女儿。而“相逢能并肩”暗示了这两个字组合在一起，而“子”和“女”合在一起就是“好”字。当他们的母亲结婚时，会称呼新郎为“继父”，与“继母”相对，暗示了重组家庭的和谐，即“好”。\n",
+        "is_correct": false
+    },
+    {
+        "question_id": 28,
+        "question": "小明从不念书却得了模范生，为什么?",
+        "answer": "小明是聋哑学生",
+        "response": "因为小明是**盲人**。\n",
+        "is_correct": true
+    },
+    {
+        "question_id": 29,
+        "question": "一个招牌突然由高处掉落,砸向并排行走的五个人,为什么只有三个人受伤?",
+        "answer": "因为是麦当劳(m)的招牌",
+        "response": "因为招牌只砸到了三个人，另外两个人躲开了。这是一个典型的脑筋急转弯，它利用了人们对严重事件的直觉反应和对“只有”这个词的强调，让人误以为会有更复杂的解释，但实际上答案非常直接。",
+        "is_correct": false
+    },
+    {
+        "question_id": 30,
+        "question": "有一块天然的黑色的大理石，在九月七号这一天，把它扔到钱塘江里会有什么现象发生?",
+        "answer": "沉到江底",
+        "response": "这块黑色大理石会**消失**，因为**九月七号钱塘江没有潮水**（或者可以说“这一天没有观潮日”）。 \n\n通常人们会在农历八月十八左右观看钱塘江大潮，而公历九月七号通常不是观潮的最佳日期。没有汹涌的潮水，大理石扔进去自然就看不见了，看起来像是消失了。\n",
+        "is_correct": false
+    },
+    {
+        "question_id": 31,
+        "question": "有一个人，他是你父母生的，但他却不是你的兄弟姐妹，他是谁?",
+        "answer": "你自己",
+        "response": "那是你自己。",
+        "is_correct": true
+    },
+    {
+        "question_id": 32,
+        "question": "什么东西天气越热，它爬的越高?",
+        "answer": "温度计",
+        "response": "温度计（或：气温计）。\n",
+        "is_correct": true
+    },
+    {
+        "question_id": 33,
+        "question": "有一位老太太上了公车，为什么没人让座?",
+        "answer": "车上有空位",
+        "response": "因为她坐的轮椅。\n\n这个答案简洁，符合脑筋急转弯的特点：出人意料但又合理。它利用了人们对“老太太上车”的惯性思维，容易让人联想到需要让座，但实际上老太太是坐轮椅，不需要座位。\n",
+        "is_correct": false
+    },
+    {
+        "question_id": 34,
+        "question": "小王一边刷牙，一边悠闲的吹着口哨，他是怎么做到的?",
+        "answer": "刷假牙",
+        "response": "他刷的是假牙。",
+        "is_correct": true
+    },
+    {
+        "question_id": 35,
+        "question": "用椰子和西瓜打头哪一个比较痛?",
+        "answer": "头比较痛",
+        "response": "椰子比较痛，因为“脑袋开花” (西瓜) 并不痛，而椰子会让人“头壳坏去”。\n",
+        "is_correct": false
+    },
+    {
+        "question_id": 36,
+        "question": "制造日期与有效日期是同一天的产品是什么?",
+        "answer": "报纸",
+        "response": "答案是：**报纸**。\n\n因为报纸通常只在其发行当天最具时效性和价值，第二天就变成了旧闻，价值大大降低。所以它的制造日期和有效日期通常被认为是同一天。\n",
+        "is_correct": true
+    },
+    {
+        "question_id": 37,
+        "question": "有一头头朝北的牛，它向右转原地转三圈，然后向后转原地转三圈，接着再往右转，这时候它的尾巴朝哪?",
+        "answer": "朝地",
+        "response": "朝下。",
+        "is_correct": true
+    },
+    {
+        "question_id": 38,
+        "question": "一对健康的夫妇,为什么会生出没有眼睛的婴儿?",
+        "answer": "因为生的是鸡蛋",
+        "response": "这道题是个脑筋急转弯，答案是：**因为他们生了个“瞎子”，即私生子。**\n",
+        "is_correct": false
+    },
+    {
+        "question_id": 39,
+        "question": "狐狸精最擅长迷惑男人,那么什么精男女一起迷?",
+        "answer": "酒精",
+        "response": "**妖精**。因为“妖精”可以迷惑男女，而“狐狸精”通常只用来指迷惑男性的女性。\n",
+        "is_correct": false
+    },
+    {
+        "question_id": 40,
+        "question": "胖胖是个颇有名气的跳水运动员，可是有一天，他站在跳台上，却不敢往下跳。这是为什么?",
+        "answer": "因为泳池里没有水",
+        "response": "因为胖胖站在跳台上，下面是空的，没有水。",
+        "is_correct": true
+    },
+    {
+        "question_id": 41,
+        "question": "为什么两只老虎打架,非要拼个你死我活绝不罢休?",
+        "answer": "没有人敢去劝架",
+        "response": "因为没人敢劝架。\n",
+        "is_correct": true
+    },
+    {
+        "question_id": 42,
+        "question": "什么狼不吃羊？",
+        "answer": "黄鼠狼",
+        "response": "**灰太狼**。 (因为灰太狼总是抓不到羊)\n",
+        "is_correct": false
+    },
+    {
+        "question_id": 43,
+        "question": "什么人怕太阳？",
+        "answer": "雪人",
+        "response": "答案是：**近视的人**（因为阳光刺眼，他们看不清楚）。\n",
+        "is_correct": false
+    },
+    {
+        "question_id": 44,
+        "question": "什么时候做的事别人看不到？",
+        "answer": "梦里做事",
+        "response": "在梦里做事的时候。",
+        "is_correct": true
+    },
+    {
+        "question_id": 45,
+        "question": "农夫养了10头牛，为什么只有19只角?",
+        "answer": "因为一只是犀牛",
+        "response": "因为有一头牛是犀牛。 \n",
+        "is_correct": true
+    },
+    {
+        "question_id": 46,
+        "question": "什么报只印一份？",
+        "answer": "电报",
+        "response": "电报",
+        "is_correct": true
+    },
+    {
+        "question_id": 47,
+        "question": "什么桥下没水?",
+        "answer": "立交桥",
+        "response": "答案：**人情桥**（人情冷暖，桥下自然没水）\n",
+        "is_correct": false
+    },
+    {
+        "question_id": 48,
+        "question": "小呆骑在大牛身上,为什么大牛不吃草?",
+        "answer": "大牛是人",
+        "response": "因为小呆骑在**牛**奶瓶上。 \n",
+        "is_correct": false
+    },
+    {
+        "question_id": 49,
+        "question": "埋在地下一千年的酒，出来以后叫什么?",
+        "answer": "酒精",
+        "response": "土酒。",
+        "is_correct": false
+    },
+    {
+        "question_id": 50,
+        "question": "在什么时候1加2不等于3?",
+        "answer": "在算错了的时候",
+        "response": "算错的时候",
+        "is_correct": true
+    },
+    {
+        "question_id": 51,
+        "question": "为什么天上下雨地面一点不湿?",
+        "answer": "下的是流星雨",
+        "response": "因为下的是“干雨”。\n",
+        "is_correct": false
+    },
+    {
+        "question_id": 52,
+        "question": "蚊子咬在什么地方你不会觉得痒？",
+        "answer": "别人身上",
+        "response": "别人身上。\n",
+        "is_correct": true
+    },
+    {
+        "question_id": 53,
+        "question": "什么东西只有一只脚，却能跑遍屋子的所有角落？",
+        "answer": "扫帚",
+        "response": "**扫帚**\n",
+        "is_correct": true
+    },
+    {
+        "question_id": 54,
+        "question": "最好吃的饭是什么饭？",
+        "answer": "软饭",
+        "response": "最好吃的饭是“团圆饭”。",
+        "is_correct": false
+    },
+    {
+        "question_id": 55,
+        "question": "太阳和月亮在一起是哪一天?",
+        "answer": "明天",
+        "response": "明天。\n\n因为“明天”的“明”字，就是由“日”和“月”组成的。\n",
+        "is_correct": true
+    },
+    {
+        "question_id": 56,
+        "question": "什么样的路不能走?",
+        "answer": "电路",
+        "response": "歪路不能走。\n",
+        "is_correct": false
+    },
+    {
+        "question_id": 57,
+        "question": "为什么暑假一定比寒假长?",
+        "answer": "热胀冷缩",
+        "response": "因为**热**胀冷缩啊！\n",
+        "is_correct": true
+    },
+    {
+        "question_id": 58,
+        "question": "什么酒不能喝?",
+        "answer": "碘酒",
+        "response": "甲醇。",
+        "is_correct": false
+    },
+    {
+        "question_id": 59,
+        "question": "车在右转弯时，哪一条轮胎不转？",
+        "answer": "备胎不转",
+        "response": "备用轮胎。",
+        "is_correct": true
+    },
+    {
+        "question_id": 60,
+        "question": "什么桶装不满？",
+        "answer": "马桶",
+        "response": "答案：**马桶**\n",
+        "is_correct": true
+    },
+    {
+        "question_id": 61,
+        "question": "坐什么板凳最不好受?",
+        "answer": "冷板凳",
+        "response": "坐什么板凳最不好受？\n\n答案是：坐“冷板凳”最不好受。这是一个比喻，指被忽视或排除在重要活动之外的状态，而不是实际的冷板凳。",
+        "is_correct": true
+    },
+    {
+        "question_id": 62,
+        "question": "什么时候会看到最多的星星？",
+        "answer": "黑夜",
+        "response": "答案：**下雨天，打伞的时候。**（伞上的星星图案）\n",
+        "is_correct": false
+    },
+    {
+        "question_id": 63,
+        "question": "什么字全世界通用?",
+        "answer": "阿拉伯数字",
+        "response": "答案是：**“!”** （感叹号）\n\n因为感叹号在任何语言中都有相似的表达，都可以用来表示惊讶、感叹等强烈的情感，所以可以认为是全世界通用的字。\n",
+        "is_correct": false
+    },
+    {
+        "question_id": 64,
+        "question": "冰山能值多少钱？",
+        "answer": "一角钱 （冰山一角）",
+        "response": "冰山无法用金钱衡量，因为它不是商品。",
+        "is_correct": false
+    },
+    {
+        "question_id": 65,
+        "question": "最多人看不清楚的花是什么花呢?",
+        "answer": "眼花",
+        "response": "答案：**眼花**。\n",
+        "is_correct": true
+    },
+    {
+        "question_id": 66,
+        "question": "什么东西没有价位，但大家又很喜欢?",
+        "answer": "无价之宝",
+        "response": "答案是：**开心**。\n\n没有价位，但大家都喜欢。\n",
+        "is_correct": false
+    },
+    {
+        "question_id": 67,
+        "question": "哥伦布一只脚迈上新大陆后,他紧接着做什么?",
+        "answer": "迈上另一只脚",
+        "response": "答案是：**迈上另一只脚**。 \n\n这道题是一个典型的脑筋急转弯，它利用了人们对哥伦布发现新大陆这一历史事件的固有印象，将重点放在“迈上”这个动作上，从而引出意想不到但又十分合理的答案。\n",
+        "is_correct": true
+    },
+    {
+        "question_id": 68,
+        "question": "做什么事会身不由己?",
+        "answer": "做梦",
+        "response": "答：**跳伞**。",
+        "is_correct": false
+    },
+    {
+        "question_id": 69,
+        "question": "风的孩子叫什么?",
+        "answer": "水起（风生水起）",
+        "response": "风的孩子叫**水**。\n",
+        "is_correct": true
+    },
+    {
+        "question_id": 70,
+        "question": "最不听话的人是谁?",
+        "answer": "聋子",
+        "response": "答案：聋人",
+        "is_correct": true
+    },
+    {
+        "question_id": 71,
+        "question": "什么球离你最近?",
+        "answer": "地球",
+        "response": "答案是“眼球”。",
+        "is_correct": false
+    },
+    {
+        "question_id": 72,
+        "question": "什么东西天气越热,它爬的越高?",
+        "answer": "温度计",
+        "response": "温度计里的水银! \n",
+        "is_correct": true
+    },
+    {
+        "question_id": 73,
+        "question": "一个最贪玩的小孩最喜欢什么课？",
+        "answer": "下课",
+        "response": "体育课，因为可以“玩”。\n",
+        "is_correct": false
+    },
+    {
+        "question_id": 74,
+        "question": "什么人是不用电的？",
+        "answer": "缅甸人（免电人）",
+        "response": "答案是：**死人**。\n",
+        "is_correct": false
+    },
+    {
+        "question_id": 75,
+        "question": "历史上哪个人跑的最快?",
+        "answer": "曹操（说曹操曹操到）",
+        "response": "答案是：曹操（超之谓超）。",
+        "is_correct": true
+    },
+    {
+        "question_id": 76,
+        "question": "有一个字，人人见了都会念错。这是什么字?",
+        "answer": "这是“错”字",
+        "response": "这个字是“错”。\n",
+        "is_correct": true
+    },
+    {
+        "question_id": 77,
+        "question": "什么鱼不能吃?",
+        "answer": "木鱼",
+        "response": "答案：**木鱼**。\n",
+        "is_correct": true
+    },
+    {
+        "question_id": 78,
+        "question": "世界上除了火车啥车最长？",
+        "answer": "塞车",
+        "response": "塞车！ \n",
+        "is_correct": true
+    },
+    {
+        "question_id": 79,
+        "question": "什么食品东、南、西、北都出产？",
+        "answer": "瓜",
+        "response": "答案是：**“东方红，南泥湾，西子湖，北平等”**。\n\n因为这些都是中国地名，而这些地方都出产“泥”。 \n",
+        "is_correct": false
+    },
+    {
+        "question_id": 80,
+        "question": "有一个东西，它有3个肚子，21个头，5个背，它是什么?",
+        "answer": "怪物",
+        "response": "答案是：**一副扑克牌**。\n\n* **3个肚子**：指的是J、Q、K这三张牌，它们通常被描绘成有肚子的人物形象。\n* **21个头**：一副扑克牌有54张（除大小王），除了数字牌，J、Q、K各有4张，共12张，加上大小王2张，共14张牌有头像。如果算上数字牌的“小脑袋”（比如数字“6”看起来像一个小脑袋），7张数字牌共14个“头”，加起来一共是14+7=21个头。\n* **5个背**：指的是扑克牌的五种花色：红桃、方块、黑桃、梅花，加上大小王（或算作王的一种独立花色）。\n\n希望这个答案符合你的要求！\n",
+        "is_correct": false
+    },
+    {
+        "question_id": 81,
+        "question": "一个人在太阳下走路却看不见自己的影子，为什么？",
+        "answer": "因为他撑了一把伞",
+        "response": "因为他站在太阳下，太阳光直接照射到他身上，没有产生影子。",
+        "is_correct": false
+    },
+    {
+        "question_id": 82,
+        "question": "什么事天不知地知，你不知我知？",
+        "answer": "鞋底破了一个洞",
+        "response": "— 鞋底破了。\n",
+        "is_correct": true
+    },
+    {
+        "question_id": 83,
+        "question": "麒麟到了北极会变成什么？",
+        "answer": "冰淇凌(冰麒麟)",
+        "response": "冰！因为冰 (冰) 和冰 (冰冷) 的谐音。 \n",
+        "is_correct": false
+    },
+    {
+        "question_id": 84,
+        "question": "什么人，不洗澡？",
+        "answer": "泥人",
+        "response": "泥人。",
+        "is_correct": true
+    },
+    {
+        "question_id": 85,
+        "question": "大雁为什么要向南飞？",
+        "answer": "因为用脚走太慢了",
+        "response": "因为它怕被冻成“大雁北飞”！\n",
+        "is_correct": false
+    },
+    {
+        "question_id": 86,
+        "question": "书店买不到的书是什么书？",
+        "answer": "秘书",
+        "response": "**答案：** 遗书。 \n\n（遗书通常是写完后烧掉或留给人，不会在书店出售。）\n",
+        "is_correct": false
+    },
+    {
+        "question_id": 87,
+        "question": "借什么可以不还?",
+        "answer": "借光",
+        "response": "借光可以不还。",
+        "is_correct": true
+    },
+    {
+        "question_id": 88,
+        "question": "什么布剪不断？",
+        "answer": "瀑布",
+        "response": "瀑布。\n",
+        "is_correct": true
+    },
+    {
+        "question_id": 89,
+        "question": "什么路最窄？",
+        "answer": "冤家路窄",
+        "response": "什么路最窄？\n\n答案：平衡木上的路。",
+        "is_correct": true
+    },
+    {
+        "question_id": 90,
+        "question": "盆里有6只馒头，6个小朋友每人分到1只，但盆里还留着1只，为什么？",
+        "answer": "最后一个小朋友把盆子一起拿走",
+        "response": "因为其中一个小朋友拿了盆。 \n",
+        "is_correct": true
+    },
+    {
+        "question_id": 91,
+        "question": "什么英文字母最多人喜欢听？",
+        "answer": "CD",
+        "response": "答案是：**CD**。 因为CD是激光唱片，可以用来听音乐。\n",
+        "is_correct": true
+    },
+    {
+        "question_id": 92,
+        "question": "为什么好马不吃回头草？",
+        "answer": "后面的草全吃没了",
+        "response": "因为回头草已经被别的马吃过了。",
+        "is_correct": true
+    },
+    {
+        "question_id": 93,
+        "question": "哪儿的海不产鱼？",
+        "answer": "辞海",
+        "response": "字典里的“海”。 \n",
+        "is_correct": false
+    },
+    {
+        "question_id": 94,
+        "question": "哪一个月有二十八天？",
+        "answer": "每个月都有28天",
+        "response": "每个月都有28天。",
+        "is_correct": true
+    },
+    {
+        "question_id": 95,
+        "question": "打什么东西，不必花力气？",
+        "answer": "打瞌睡",
+        "response": "打哈欠。\n",
+        "is_correct": true
+    },
+    {
+        "question_id": 96,
+        "question": "黑头发有什么好处？",
+        "answer": "不怕晒黑",
+        "response": "冬天不怕冷，夏天不怕热。",
+        "is_correct": false
+    },
+    {
+        "question_id": 97,
+        "question": "一年四季都盛开的花是什么花？",
+        "answer": "塑料花",
+        "response": "电火花！",
+        "is_correct": false
+    },
+    {
+        "question_id": 98,
+        "question": "你能以最快速度，把冰变成水吗？",
+        "answer": "把“冰”字去掉两点，就成了“水”",
+        "response": "——把“冰”字去掉两点，就成了“水”。",
+        "is_correct": true
+    },
+    {
+        "question_id": 99,
+        "question": "一只狗总也不洗澡，为什么不生虱子？",
+        "answer": "狗生狗",
+        "response": "因为它只生小狗！\n",
+        "is_correct": true
+    },
+    {
+        "question_id": 100,
+        "question": "什么车子寸步难行？",
+        "answer": "风车",
+        "response": "答案是：**风车**。因为风车没有轮子，所以无法移动。\n",
+        "is_correct": true
+    },
+    {
+        "question_id": 101,
+        "question": "什么蛋打不烂，煮不熟，更不能吃？",
+        "answer": "考试得的零蛋",
+        "response": "脸蛋。",
+        "is_correct": false
+    },
+    {
+        "question_id": 102,
+        "question": "什么鸡没有翅膀？",
+        "answer": "田鸡",
+        "response": "答案是：**田鸡**。 \n",
+        "is_correct": true
+    },
+    {
+        "question_id": 103,
+        "question": "小明是高的儿子但是小明却不肯喊他爸爸，为什么？",
+        "answer": "因为高是小明的妈妈",
+        "response": "因为“高的儿子”指的是高度的儿子，小明是高（拼音：gāo）的儿子，而不是一个叫“高”的人的儿子。这里的“高”是一个姓氏，小明不喊他爸爸是因为题目中并没有提到他的爸爸叫什么名字，或者他的爸爸是否在场。",
+        "is_correct": true
+    },
+    {
+        "question_id": 104,
+        "question": "江家有三个女儿，大女儿二女儿三女儿。谁的身材最辣？",
+        "answer": "大女儿因为姜还是老的辣",
+        "response": "答案是：**三女儿**。\n\n因为“三女儿”谐音“身材最辣”的“身材最辣”。\n",
+        "is_correct": false
+    },
+    {
+        "question_id": 105,
+        "question": "一个人有三根头发，为什么他还要剪掉一根？",
+        "answer": "他想做三毛的哥哥",
+        "response": "因为他想变成“三毛的哥哥”——“二毛”！\n",
+        "is_correct": true
+    },
+    {
+        "question_id": 106,
+        "question": "哪家人最多？",
+        "answer": "国家",
+        "response": "答案：**家人最多的是家人（jiā rén），因为千千万万的人都姓“家”。**\n",
+        "is_correct": false
+    },
+    {
+        "question_id": 107,
+        "question": "有一个穿着泳装的女人，她在松软的沙滩上漫步，这一切虽然都很正常，但是，你会发现她的身后竟然没有脚印！这是为什么？",
+        "answer": "她是倒着走的",
+        "response": "因为她是在看照片。",
+        "is_correct": false
+    },
+    {
+        "question_id": 108,
+        "question": "电单车时速八十公里，向北行驶。有时速二十公里的东风，请问电单车的烟，朝那个方向吹？",
+        "answer": "电车是没有烟的",
+        "response": "电单车没有烟囱，所以没有烟。",
+        "is_correct": true
+    },
+    {
+        "question_id": 109,
+        "question": "老师出了一道作文，题目是“假如我是个董事长”，同学都用心在写，为什么小强不动手？",
+        "answer": "他在等秘书替他写",
+        "response": "小强不动手，因为他在等秘书帮他写。\n",
+        "is_correct": true
+    },
+    {
+        "question_id": 110,
+        "question": "一个阴森的夜晚，眼前站着长发披肩，身穿白衣脸色苍白的一个女孩，用手去摸她，却摸不着，为什么？",
+        "answer": "中间隔着透明的玻璃窗",
+        "response": "因为女孩是照片或不存在的幻影。",
+        "is_correct": false
+    },
+    {
+        "question_id": 111,
+        "question": "阿发仔的长相和家人很相象，但大家都说阿发仔不是他们的孩子，为什么？",
+        "answer": "因为他是爸爸",
+        "response": "因为阿发仔是他们的**家庭教师**。\n",
+        "is_correct": false
+    },
+    {
+        "question_id": 112,
+        "question": "为什么有人说：“情人眼里出西施”？",
+        "answer": "因为爱情使人盲目",
+        "response": "因为他们都戴着“西施”牌隐形眼镜。\n",
+        "is_correct": false
+    },
+    {
+        "question_id": 113,
+        "question": "爸爸丢了一样东西，为什么妈妈还特别高兴？",
+        "answer": "他丢掉了坏习惯",
+        "response": "因为爸爸丢的是妈妈不想要他再抽的**烟**。\n",
+        "is_correct": false
+    },
+    {
+        "question_id": 114,
+        "question": "为什么小明拒绝用“一边……一边……”这个词来造句？",
+        "answer": "老师不是说一心不能二用嘛",
+        "response": "因为小明不“一边……一边……”。（不“两边”） \n",
+        "is_correct": false
+    },
+    {
+        "question_id": 115,
+        "question": "梁山伯和祝英台变成了一对比翼双飞的蝴蝶之后怎样了？",
+        "answer": "生了一堆毛毛虫",
+        "response": "他们一起飞走了，变成了“蝴蝶效应”！\n",
+        "is_correct": false
+    },
+    {
+        "question_id": 116,
+        "question": "把一头猪涂满银光粉牵到舞台上是什么？",
+        "answer": "诸葛亮（猪皮革亮）",
+        "response": "把一头猪涂满银光粉牵到舞台上是什么？\n\n答案是：**猪光宝气**（珠光宝气）",
+        "is_correct": false
+    },
+    {
+        "question_id": 117,
+        "question": "用什么方法立刻可以找到遗失的图钉？",
+        "answer": "光着脚走",
+        "response": "光线反射。",
+        "is_correct": false
+    },
+    {
+        "question_id": 118,
+        "question": "期终考试成绩下来了，平平的四门功课全是零分。老师却说比起某些同学来平平有一条是值得表扬的。老师指的是什么？",
+        "answer": "平平没有作弊",
+        "response": "老师指的是：**平平没有作弊。**\n",
+        "is_correct": true
+    },
+    {
+        "question_id": 119,
+        "question": "如果说儿童是国家未来的栋梁，那么儿童肚子里的蛔虫是什么？",
+        "answer": "当然栋梁的蛀虫了",
+        "response": "蛔虫是未来的“栋梁”的“蛀虫”。",
+        "is_correct": true
+    },
+    {
+        "question_id": 120,
+        "question": "为什么关羽比张飞死的早？",
+        "answer": "红颜薄命（关羽面红，张飞面黑）",
+        "response": "因为关羽是“关”死的，张飞是“张”开的。 \n",
+        "is_correct": false
+    },
+    {
+        "question_id": 121,
+        "question": "“先天”是指父母的遗传，那“后天”是什么？",
+        "answer": "明天的明天",
+        "response": "后天的努力。",
+        "is_correct": false
+    },
+    {
+        "question_id": 122,
+        "question": "怎样才能使人有心跳的感觉？",
+        "answer": "活着",
+        "response": "答案是：吓他一跳。",
+        "is_correct": false
+    },
+    {
+        "question_id": 123,
+        "question": "老师说蚯蚓切成两段仍能再生，小东照老师话去做，蚯蚓却死了，为什么？",
+        "answer": "小东是竖着将蚯蚓切开的",
+        "response": "因为小东是**垂直**切的，而不是水平切。 \n",
+        "is_correct": true
+    },
+    {
+        "question_id": 124,
+        "question": "小丽和妈妈买了8个苹果，妈妈让小丽把这些苹果装进5个口袋中，每个口袋里都是双数，你能做到吗？",
+        "answer": "每条口袋各装2个苹果，最后将所有4条口袋装进第5条口袋",
+        "response": "可以。把所有苹果都装进4个口袋里，这样每个口袋里都有2个苹果，最后一个口袋空着。",
+        "is_correct": false
+    },
+    {
+        "question_id": 125,
+        "question": "医生给了你三颗药丸要你每半个小时吃一颗请问吃完需要多长时间？",
+        "answer": "一个小时",
+        "response": "答案是：**一分钟**。\n\n因为通常情况下，吃药需要用水送服，从拿到药到咽下去，大约需要一分钟时间。三颗药的时间加起来还是一分钟。\n",
+        "is_correct": false
+    },
+    {
+        "question_id": 126,
+        "question": "一间牢房中关押着两名犯人，其中一个因偷窃要关一年，另一个是抢动杀人犯，却只关两周，为什么？",
+        "answer": "关两周后枪决",
+        "response": "因为抢劫杀人犯是法官。\n",
+        "is_correct": false
+    },
+    {
+        "question_id": 127,
+        "question": "任何人必须去的地方是哪里？",
+        "answer": "厕所",
+        "response": "答案是：**厕所**\n",
+        "is_correct": true
+    },
+    {
+        "question_id": 128,
+        "question": "太阳和月亮在一起是哪一天？",
+        "answer": "明天",
+        "response": "明天。因为“明天”的“明”字，就是由“日”和“月”组成的。\n",
+        "is_correct": true
+    },
+    {
+        "question_id": 129,
+        "question": "什么桥下没水？",
+        "answer": "立交桥",
+        "response": "答案：**立交桥**",
+        "is_correct": true
+    },
+    {
+        "question_id": 130,
+        "question": "什么东西咬牙切齿？",
+        "answer": "拉链",
+        "response": "梳子。",
+        "is_correct": false
+    },
+    {
+        "question_id": 131,
+        "question": "森林里有一条眼镜蛇，可是它从来不咬人，这是为什么呢？",
+        "answer": "森林里没人",
+        "response": "因为它是一条“ Anaconda ”（水蟒），不咬“人”，咬“ Ana ”（谐音）。 \n",
+        "is_correct": false
+    },
+    {
+        "question_id": 132,
+        "question": "我有九个苹果，却必须分给十三个小朋友，我该怎么办？",
+        "answer": "榨成果汁",
+        "response": "把苹果切开来分。",
+        "is_correct": false
+    },
+    {
+        "question_id": 133,
+        "question": "一场大雨，忙着栽种的农民纷纷躲避，却仍有一人不走，为什么？",
+        "answer": "稻草人",
+        "response": "因为他正在雨中栽“雨伞”（雨遮）。",
+        "is_correct": false
+    },
+    {
+        "question_id": 134,
+        "question": "小华在家里，和谁长得最像？",
+        "answer": "和镜中的小华",
+        "response": "他的家人。",
+        "is_correct": false
+    },
+    {
+        "question_id": 135,
+        "question": "两对父子去买帽子，为什么只买了三顶？",
+        "answer": "是祖孙三人",
+        "response": "因为其中一对父子是爷爷和爸爸，另一对父子是爸爸和孩子。爷爷、爸爸和孩子三个人，所以只买了三顶帽子。\n",
+        "is_correct": true
+    },
+    {
+        "question_id": 136,
+        "question": "下雪天，阿文开了暖气，关上门窗，为什么还感到很冷？",
+        "answer": "他在门外",
+        "response": "因为阿文在室外。 \n",
+        "is_correct": true
+    },
+    {
+        "question_id": 137,
+        "question": "买来煮了它，煮好丢了它，这东西是什么？",
+        "answer": "药草",
+        "response": "鸡蛋的壳。",
+        "is_correct": false
+    },
+    {
+        "question_id": 138,
+        "question": "用椰子和西瓜打头哪一个比较疼？",
+        "answer": "头比较疼",
+        "response": "椰子比较疼，因为西瓜会“开花”。",
+        "is_correct": false
+    },
+    {
+        "question_id": 139,
+        "question": "什么人一年只上一天班？",
+        "answer": "圣诞老人",
+        "response": "圣诞老人。\n",
+        "is_correct": true
+    },
+    {
+        "question_id": 140,
+        "question": "警方发现一齐智能杀人案，现场没有留下线索，也找不到目击者，但一个小时后警方宣布破案，为什么？",
+        "answer": "凶手自首了",
+        "response": "因为案发时间是凌晨两点，现场只有一台智能音箱，凶手对智能音箱说：“打开灯”，智能音箱回复：“好的，的主人”。警方通过智能音箱的记录破案。\n",
+        "is_correct": false
+    },
+    {
+        "question_id": 141,
+        "question": "袋鼠和猴子参加跳高比赛，为什么猴子一开始就赢了？",
+        "answer": "袋鼠双脚起跳犯规",
+        "response": "因为袋鼠是“跳”高，而猴子是“爬”高。",
+        "is_correct": false
+    },
+    {
+        "question_id": 142,
+        "question": "为什么全世界的母鸡都是短腿？",
+        "answer": "这样鸡蛋就不会摔破",
+        "response": "因为全球的母鸡都是“短腿鸡（蛋壳）”！ \n",
+        "is_correct": false
+    },
+    {
+        "question_id": 143,
+        "question": "在一个寒冷冬日清晨，有一位西装革履的先生在河里拼命游水，你说这是为什么？",
+        "answer": "他不小心掉进河里了",
+        "response": "**答案：** 他在练习冬泳，增强抵抗力。",
+        "is_correct": false
+    },
+    {
+        "question_id": 144,
+        "question": "什么“贼”不偷东西，专门卖东西？",
+        "answer": "卖国贼",
+        "response": "书贼。",
+        "is_correct": false
+    },
+    {
+        "question_id": 145,
+        "question": "在地上有元钱和一块肉骨头，可是阿明却拣起了肉骨头而没有捡钱，为什么？",
+        "answer": "那里的“阿明”是条狗的名字",
+        "response": "因为阿明是一只狗。",
+        "is_correct": true
+    },
+    {
+        "question_id": 146,
+        "question": "幼儿园放学了，但却没有一个小朋友从大门出去，是怎样回事呢？",
+        "answer": "因为大门关着",
+        "response": "因为大门是关着的，他们是从其他门出去的。\n",
+        "is_correct": true
+    },
+    {
+        "question_id": 147,
+        "question": "一个人去网吧，碰上一个同学带着两个朋友，各带着个小孩，小孩个带着个朋友，问多少人去网吧？",
+        "answer": "一个人，其它人没说去",
+        "response": "一共6人去网吧。题目描述了以下关系：\n1. 一个同学和他的两个朋友，共3人。\n2. 每人带一个小孩，共3个小孩。\n3. 每个小孩带一个朋友，共3个朋友。\n但注意这里的“朋友”实际上就是前面提到的那3个小孩的朋友，而不是额外的6个人。所以，总共的人数是一个人（最初提到的那个人）加上同学和他的两个朋友，再加上他们的3个小孩，所以总共是1+3+3=7人，但是每个小孩带的朋友实际上就是其他小孩，这样就没有额外的人数，因此最终是3+3=6人。",
+        "is_correct": false
+    },
+    {
+        "question_id": 148,
+        "question": "小偷从现场逃走，为什么没有留下脚印？",
+        "answer": "倒着走的",
+        "response": "因为他是“飞贼”，从天窗逃走的。\n",
+        "is_correct": false
+    },
+    {
+        "question_id": 149,
+        "question": "威尼斯画派的代表是谁？",
+        "answer": "提香",
+        "response": "答案：**达芬奇** (因为他“达”到了“芬”芳的威尼斯)\n",
+        "is_correct": false
+    },
+    {
+        "question_id": 150,
+        "question": "有一个眼睛瞎了的人，走到山崖边上，突然停住了，然后往回走，为什么？",
+        "answer": "他瞎了一只眼",
+        "response": "因为他只用**一只眼睛**看路。\n",
+        "is_correct": true
+    },
+    {
+        "question_id": 151,
+        "question": "如果动物园失火了，最先逃出来的哪一种动物？",
+        "answer": "人",
+        "response": "答案是：**人**。因为参观动物园的是人，人会最先逃出来。\n",
+        "is_correct": true
+    },
+    {
+        "question_id": 152,
+        "question": "为什么警察对闯红灯的汽车司机视而不见？",
+        "answer": "汽车司机没开车",
+        "response": "因为司机是**色盲**。\n",
+        "is_correct": false
+    },
+    {
+        "question_id": 153,
+        "question": "比眼大的东西是什么？",
+        "answer": "眼皮",
+        "response": "答案：**眼皮**。因为眼皮可以盖住眼睛。\n",
+        "is_correct": true
+    },
+    {
+        "question_id": 154,
+        "question": "什么时候做的事别人看不到？",
+        "answer": "梦里做事",
+        "response": "在梦里做事的时候。",
+        "is_correct": true
+    },
+    {
+        "question_id": 155,
+        "question": "盲人都是怎样吃桔子的？",
+        "answer": "瞎掰",
+        "response": "瞎扯（瞎剥）。\n",
+        "is_correct": true
+    },
+    {
+        "question_id": 156,
+        "question": "有一块天然的黑色的大理石，在九月七号这一天，把它扔到钱塘江里会有什么现象发生？",
+        "answer": "沉到江底",
+        "response": "这块黑色大理石会**沉入江底**。\n\n因为脑筋急转弯的答案通常是简单直接的，而且往往与问题中的一些细节无关。这道题中，无论是大理石的颜色、日期还是地点，都与大理石是否会沉入江底无关。大理石通常比水的密度大，所以会沉入水底。\n",
+        "is_correct": true
+    },
+    {
+        "question_id": 157,
+        "question": "小王是一名优秀士兵，一天他在站岗值勤时，明明看到有敌人悄悄向他摸过来，为什么他却睁一只眼闭一只眼？",
+        "answer": "因为他正在瞄准",
+        "response": "因为他正在瞄准。\n",
+        "is_correct": true
+    },
+    {
+        "question_id": 158,
+        "question": "有一个人，他是你父母生的，但他却不是你的兄弟姐妹，他是谁？",
+        "answer": "你自己",
+        "response": "那是你自己。",
+        "is_correct": true
+    },
+    {
+        "question_id": 159,
+        "question": "什么东西在倒立之后会增加一半？",
+        "answer": "数字6",
+        "response": "数字9。当数字9倒立之后，它会变成数字6，而6是9的一半。所以，从某种角度看，倒立后的9似乎增加了3，变成了6，增加了原本的一半。",
+        "is_correct": false
+    },
+    {
+        "question_id": 160,
+        "question": "什么东西越洗越脏？",
+        "answer": "水",
+        "response": "水",
+        "is_correct": true
+    }
+]

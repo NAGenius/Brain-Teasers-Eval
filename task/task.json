@@ -1,0 +1,1097 @@
+[
+    {
+        "question_id": 1,
+        "question": "小红和小丽是同学，也住在同一条街，她们总是一起上学，可是每天一出家门就一个向左走，一个向右走，这是怎么回事呢？",
+        "answer": "他们的家门是相对着的"
+    },
+    {
+        "question_id": 2,
+        "question": "在一次监察严密的考试中，有两个学生交了一模一样的考卷。主考官发现后，却并没有认为他们作弊，这是什么原因?",
+        "answer": "二张考卷交得都是白卷"
+    },
+    {
+        "question_id": 3,
+        "question": "张大妈整天说个不停，可有一个月她说话最少，那是哪个月?",
+        "answer": "二月份"
+    },
+    {
+        "question_id": 4,
+        "question": "有一种地方专门教坏人，但没有一个警察敢对它采取行动加以扫荡。这是什么地方?",
+        "answer": "看守所"
+    },
+    {
+        "question_id": 5,
+        "question": "报纸上登的消息不一定百分之百是真的，但什么消息绝对假不了?",
+        "answer": "报纸上的年、月、日"
+    },
+    {
+        "question_id": 6,
+        "question": "早晨醒来，每个人都会去做的第一件事是什么?",
+        "answer": "睁眼"
+    },
+    {
+        "question_id": 7,
+        "question": "如果你有一只下金蛋的母鸡，你该怎么办?",
+        "answer": "不要再做梦了"
+    },
+    {
+        "question_id": 8,
+        "question": "一架飞机坐满了人，从万米高空落下坠毁，为什么却一个伤者也没有?",
+        "answer": "没有伤者，都摔死了"
+    },
+    {
+        "question_id": 9,
+        "question": "要想使梦成为现实，我们干的第一件事会是什么?",
+        "answer": "醒来"
+    },
+    {
+        "question_id": 10,
+        "question": "什么东西人们都不喜欢吃?",
+        "answer": "吃亏"
+    },
+    {
+        "question_id": 11,
+        "question": "向准时的老处女在上班途中，发现被一名男子跟踪，心中暗惊，而当她赶到办公室时，竟意外地迟到了，为什么?",
+        "answer": "因为哪跟踪者走得太慢"
+    },
+    {
+        "question_id": 12,
+        "question": "别人跟阿丹说她的衣服怎么没衣扣，她却不在乎，为什么?",
+        "answer": "因为他的衣服只有拉链没有扣子"
+    },
+    {
+        "question_id": 13,
+        "question": "女人翻跟头——打一外国城市名",
+        "answer": "芭比论"
+    },
+    {
+        "question_id": 14,
+        "question": "裤裆里放鞭炮——打一军事用品",
+        "answer": "炸弹"
+    },
+    {
+        "question_id": 15,
+        "question": "男人泡澡堂——打一军事用品。",
+        "answer": "炮弹"
+    },
+    {
+        "question_id": 16,
+        "question": "避孕套——打一地名。",
+        "answer": "包头"
+    },
+    {
+        "question_id": 17,
+        "question": "小刘是个很普通的人，为什么竟然能一连十几个小时不眨眼?",
+        "answer": "睡觉的时候"
+    },
+    {
+        "question_id": 18,
+        "question": "情人卡、生日卡、大大小小的卡，到底要寄什么卡给女人，最能博得她的欢心呢?",
+        "answer": "信用卡"
+    },
+    {
+        "question_id": 19,
+        "question": "小王走路从来脚不沾地，这是为什么?",
+        "answer": "因为穿着鞋子"
+    },
+    {
+        "question_id": 20,
+        "question": "我不会轻功，反一只脚搭在鸡蛋上，鸡蛋却不会破，这是为什么?",
+        "answer": "另外一只脚站在地上"
+    },
+    {
+        "question_id": 21,
+        "question": "什么地方开口说话要付钱?",
+        "answer": "打电话"
+    },
+    {
+        "question_id": 22,
+        "question": "冬冬的爸爸牙齿非常好，可是他经常去口腔医院，为什么?",
+        "answer": "因为他是牙科医生"
+    },
+    {
+        "question_id": 23,
+        "question": "盖楼要从第几层开始盖?",
+        "answer": "是从地基开始的"
+    },
+    {
+        "question_id": 24,
+        "question": "为什么大雁秋天要飞到南方去?",
+        "answer": "如果走，哪太慢了"
+    },
+    {
+        "question_id": 25,
+        "question": "什么门永远关不上?",
+        "answer": "足球门"
+    },
+    {
+        "question_id": 26,
+        "question": "胖妞生病了，最怕别人来探病时说什么?",
+        "answer": "多多保重"
+    },
+    {
+        "question_id": 27,
+        "question": "阿明给蚊子咬了一大一小的包，请问较大的包，是公蚊子咬的，还是母蚊子咬的?",
+        "answer": "公蚊是不咬人的"
+    },
+    {
+        "question_id": 28,
+        "question": "个警察有个弟弟，但弟弟却否认有个哥哥，为什么?",
+        "answer": "因为哪个警察上全女的"
+    },
+    {
+        "question_id": 29,
+        "question": "什么东西比乌鸦更讨厌?",
+        "answer": "乌鸦嘴"
+    },
+    {
+        "question_id": 30,
+        "question": "刚买的袜子为什么会有一个洞?",
+        "answer": "袜口"
+    },
+    {
+        "question_id": 31,
+        "question": "什么时候子女相逢能并肩?",
+        "answer": "好"
+    },
+    {
+        "question_id": 32,
+        "question": "小明从不念书却得了模范生，为什么?",
+        "answer": "小明是聋哑学生"
+    },
+    {
+        "question_id": 33,
+        "question": "一个招牌突然由高处掉落,砸向并排行走的五个人,为什么只有三个人受伤?",
+        "answer": "因为是麦当劳(m)的招牌"
+    },
+    {
+        "question_id": 34,
+        "question": "有一块天然的黑色的大理石，在九月七号这一天，把它扔到钱塘江里会有什么现象发生?",
+        "answer": "沉到江底"
+    },
+    {
+        "question_id": 35,
+        "question": "有一个人，他是你父母生的，但他却不是你的兄弟姐妹，他是谁?",
+        "answer": "你自己"
+    },
+    {
+        "question_id": 36,
+        "question": "什么东西天气越热，它爬的越高?",
+        "answer": "温度计"
+    },
+    {
+        "question_id": 37,
+        "question": "有一位老太太上了公车，为什么没人让座?",
+        "answer": "车上有空位"
+    },
+    {
+        "question_id": 38,
+        "question": "小王一边刷牙，一边悠闲的吹着口哨，他是怎么做到的?",
+        "answer": "刷假牙"
+    },
+    {
+        "question_id": 39,
+        "question": "用椰子和西瓜打头哪一个比较痛?",
+        "answer": "头比较痛"
+    },
+    {
+        "question_id": 40,
+        "question": "制造日期与有效日期是同一天的产品是什么?",
+        "answer": "报纸"
+    },
+    {
+        "question_id": 41,
+        "question": "为什么有家医院从不给人看病?",
+        "answer": "兽医院"
+    },
+    {
+        "question_id": 42,
+        "question": "有一头头朝北的牛，它向右转原地转三圈，然后向后转原地转三圈，接着再往右转，这时候它的尾巴朝哪?",
+        "answer": "朝地"
+    },
+    {
+        "question_id": 43,
+        "question": "胖妞生病了，最怕别人来探病时说什么?",
+        "answer": "多多保重"
+    },
+    {
+        "question_id": 44,
+        "question": "如果明天就是世界末日，为什么今天就有人想自杀?",
+        "answer": "去天堂占位置"
+    },
+    {
+        "question_id": 45,
+        "question": "一对健康的夫妇,为什么会生出没有眼睛的婴儿?",
+        "answer": "鸡生蛋"
+    },
+    {
+        "question_id": 46,
+        "question": "狐狸精最擅长迷惑男人,那么什么精男女一起迷?",
+        "answer": "酒精"
+    },
+    {
+        "question_id": 47,
+        "question": "小张走路从来脚不沾地，这是为什么?",
+        "answer": "还隔着鞋和袜子"
+    },
+    {
+        "question_id": 48,
+        "question": "胖胖是个颇有名气的跳水运动员，可是有一天，他站在跳台上，却不敢往下跳。这是为什么?",
+        "answer": "下面没有水"
+    },
+    {
+        "question_id": 49,
+        "question": "哪一颗牙最后长出来?",
+        "answer": "假牙"
+    },
+    {
+        "question_id": 50,
+        "question": "为什么两只老虎打架,非要拼个你死我活绝不罢休?",
+        "answer": "没有人敢去劝架"
+    },
+    {
+        "question_id": 51,
+        "question": "什么狼不吃羊？",
+        "answer": "黄鼠狼"
+    },
+    {
+        "question_id": 52,
+        "question": "什么人怕太阳？",
+        "answer": "雪人"
+    },
+    {
+        "question_id": 53,
+        "question": "什么时候做的事别人看不到？",
+        "answer": "梦里做事"
+    },
+    {
+        "question_id": 54,
+        "question": "农夫养了10头牛，为什么只有19只角?",
+        "answer": "因为一只是犀牛"
+    },
+    {
+        "question_id": 55,
+        "question": "人最讨厌听什么话？",
+        "answer": "风凉话"
+    },
+    {
+        "question_id": 56,
+        "question": "什么报只印一份？",
+        "answer": "电报"
+    },
+    {
+        "question_id": 57,
+        "question": "什么东西没脚走天下?",
+        "answer": "船"
+    },
+    {
+        "question_id": 58,
+        "question": "什么桥下没水?",
+        "answer": "立交桥"
+    },
+    {
+        "question_id": 59,
+        "question": "小呆骑在大牛身上,为什么大牛不吃草?",
+        "answer": "大牛是人"
+    },
+    {
+        "question_id": 60,
+        "question": "埋在地下一千年的酒，出来以后叫什么?",
+        "answer": "酒精"
+    },
+    {
+        "question_id": 61,
+        "question": "在什么时候1加2不等于3?",
+        "answer": "在算错了的时候"
+    },
+    {
+        "question_id": 62,
+        "question": "什么山没有石？",
+        "answer": "冰山"
+    },
+    {
+        "question_id": 63,
+        "question": "为什么天上下雨地面一点不湿?",
+        "answer": "下的是流星雨"
+    },
+    {
+        "question_id": 64,
+        "question": "蚊子咬在什么地方你不会觉得痒？",
+        "answer": "别人身上"
+    },
+    {
+        "question_id": 65,
+        "question": "什么东西只有一只脚，却能跑遍屋子的所有角落？",
+        "answer": "扫帚"
+    },
+    {
+        "question_id": 66,
+        "question": "最好吃的饭是什么饭？",
+        "answer": "软饭"
+    },
+    {
+        "question_id": 67,
+        "question": "太阳和月亮在一起是哪一天?",
+        "answer": "明天"
+    },
+    {
+        "question_id": 68,
+        "question": "什么样的路不能走?",
+        "answer": "电路"
+    },
+    {
+        "question_id": 69,
+        "question": "为什么暑假一定比寒假长?",
+        "answer": "热胀冷缩"
+    },
+    {
+        "question_id": 70,
+        "question": "什么酒不能喝?",
+        "answer": "碘酒"
+    },
+    {
+        "question_id": 71,
+        "question": "车在右转弯时，哪一条轮胎不转？",
+        "answer": "备用轮胎"
+    },
+    {
+        "question_id": 72,
+        "question": "什么花不用土？",
+        "answer": "烟花"
+    },
+    {
+        "question_id": 73,
+        "question": "什么桶装不满？",
+        "answer": "马桶"
+    },
+    {
+        "question_id": 74,
+        "question": "坐什么板凳最不好受?",
+        "answer": "冷板凳"
+    },
+    {
+        "question_id": 75,
+        "question": "什么时候会看到最多的星星？",
+        "answer": "黑夜"
+    },
+    {
+        "question_id": 76,
+        "question": "什么字全世界通用?",
+        "answer": "阿拉伯数字"
+    },
+    {
+        "question_id": 77,
+        "question": "冰山能值多少钱？",
+        "answer": "一角钱 （冰山一角）"
+    },
+    {
+        "question_id": 78,
+        "question": "最多人看不清楚的花是什么花呢?",
+        "answer": "眼花"
+    },
+    {
+        "question_id": 79,
+        "question": "什么东西看不见却可以让人有所感觉?",
+        "answer": "气氛"
+    },
+    {
+        "question_id": 80,
+        "question": "什么东西没有价位，但大家又很喜欢?",
+        "answer": "无价之宝"
+    },
+    {
+        "question_id": 81,
+        "question": "哥伦布一只脚迈上新大陆后,他紧接着做什么?",
+        "answer": "迈上另一只脚"
+    },
+    {
+        "question_id": 82,
+        "question": "什么面不能吃？",
+        "answer": "画面"
+    },
+    {
+        "question_id": 83,
+        "question": "做什么事会身不由己?",
+        "answer": "做梦"
+    },
+    {
+        "question_id": 84,
+        "question": "网要什么时候可以提水？",
+        "answer": "当水变成冰的时候"
+    },
+    {
+        "question_id": 85,
+        "question": "最让人害怕的老虎？",
+        "answer": "笑面虎"
+    },
+    {
+        "question_id": 86,
+        "question": "风的孩子叫什么？",
+        "answer": "水起（风生水起）"
+    },
+    {
+        "question_id": 87,
+        "question": "最不听话的人是谁?",
+        "answer": "聋子"
+    },
+    {
+        "question_id": 88,
+        "question": "什么球离你最近?",
+        "answer": "地球"
+    },
+    {
+        "question_id": 89,
+        "question": "什么东西天气越热,它爬的越高?",
+        "answer": "温度计"
+    },
+    {
+        "question_id": 90,
+        "question": "一个最贪玩的小孩最喜欢什么课？",
+        "answer": "下课"
+    },
+    {
+        "question_id": 91,
+        "question": "比乌鸦更讨厌的是什么？",
+        "answer": "乌鸦嘴"
+    },
+    {
+        "question_id": 92,
+        "question": "什么人是不用电的？",
+        "answer": "缅甸人（免电人）"
+    },
+    {
+        "question_id": 93,
+        "question": "吃什么不用洗？",
+        "answer": "冰棍"
+    },
+    {
+        "question_id": 94,
+        "question": "历史上哪个人跑的最快?",
+        "answer": "曹操（说曹操曹操到）"
+    },
+    {
+        "question_id": 95,
+        "question": "什么球不能踢？",
+        "answer": "眼球"
+    },
+    {
+        "question_id": 96,
+        "question": "有一个字，人人见了都会念错。这是什么字？",
+        "answer": "这是“错”字"
+    },
+    {
+        "question_id": 97,
+        "question": "什么鱼不能吃?",
+        "answer": "木鱼"
+    },
+    {
+        "question_id": 98,
+        "question": "世界上除了火车啥车最长？",
+        "answer": "塞车"
+    },
+    {
+        "question_id": 99,
+        "question": "什么食品东、南、西、北都出产？",
+        "answer": "瓜"
+    },
+    {
+        "question_id": 100,
+        "question": "有一个东西，它有3个肚子，21个头，5个背，它是什么?",
+        "answer": "怪物"
+    },
+    {
+        "question_id": 101,
+        "question": "一个人在太阳下走路却看不见自己的影子，为什么？",
+        "answer": "因为他撑了一把伞"
+    },
+    {
+        "question_id": 102,
+        "question": "什么事天不知地知，你不知我知？",
+        "answer": "鞋底破了一个洞"
+    },
+    {
+        "question_id": 103,
+        "question": "麒麟到了北极会变成什么？",
+        "answer": "冰淇凌(冰麒麟)"
+    },
+    {
+        "question_id": 104,
+        "question": "什么人，不洗澡？",
+        "answer": "泥人"
+    },
+    {
+        "question_id": 105,
+        "question": "大雁为什么要向南飞？",
+        "answer": "因为用脚走太慢了"
+    },
+    {
+        "question_id": 106,
+        "question": "什么羊不吃草？",
+        "answer": "替罪羊"
+    },
+    {
+        "question_id": 107,
+        "question": "书店买不到的书是什么书？",
+        "answer": "秘书"
+    },
+    {
+        "question_id": 108,
+        "question": "借什么可以不还?",
+        "answer": "借光"
+    },
+    {
+        "question_id": 109,
+        "question": "什么布剪不断？",
+        "answer": "瀑布"
+    },
+    {
+        "question_id": 110,
+        "question": "什么路最窄？",
+        "answer": "冤家路窄"
+    },
+    {
+        "question_id": 111,
+        "question": "盆里有6只馒头，6个小朋友每人分到1只，但盆里还留着1只，为什么？",
+        "answer": "最后一个小朋友把盆子一起拿走"
+    },
+    {
+        "question_id": 112,
+        "question": "什么英文字母最多人喜欢听？",
+        "answer": "CD"
+    },
+    {
+        "question_id": 113,
+        "question": "你能做，我能做，大家都做；一个人能做，两个人不能一起做。这是做什么？",
+        "answer": "做梦"
+    },
+    {
+        "question_id": 114,
+        "question": "为什么好马不吃回头草？",
+        "answer": "后面的草全吃没了"
+    },
+    {
+        "question_id": 115,
+        "question": "什么人始终不敢洗澡？",
+        "answer": "泥人"
+    },
+    {
+        "question_id": 116,
+        "question": "哪儿的海不产鱼？",
+        "answer": "辞海"
+    },
+    {
+        "question_id": 117,
+        "question": "哪一个月有二十八天？",
+        "answer": "每个月都有28天"
+    },
+    {
+        "question_id": 118,
+        "question": "小明的爷爷一边刷牙，一边唱歌，请问为什么？",
+        "answer": "刷的是假牙"
+    },
+    {
+        "question_id": 119,
+        "question": "打什么东西，不必花力气？",
+        "answer": "打瞌睡"
+    },
+    {
+        "question_id": 120,
+        "question": "黑头发有什么好处？",
+        "answer": "不怕晒黑"
+    },
+    {
+        "question_id": 121,
+        "question": "一年四季都盛开的花是什么花？",
+        "answer": "塑料花"
+    },
+    {
+        "question_id": 122,
+        "question": "你能以最快速度，把冰变成水吗？",
+        "answer": "把“冰”字去掉两点，就成了“水”"
+    },
+    {
+        "question_id": 123,
+        "question": "世界上最小的岛是什么？",
+        "answer": "马路上的安全岛"
+    },
+    {
+        "question_id": 124,
+        "question": "什么事每人每天都必须认真的做？",
+        "answer": "睡觉"
+    },
+    {
+        "question_id": 125,
+        "question": "一只狗总也不洗澡，为什么不生虱子？",
+        "answer": "狗生狗"
+    },
+    {
+        "question_id": 126,
+        "question": "什么车子寸步难行？",
+        "answer": "风车"
+    },
+    {
+        "question_id": 127,
+        "question": "什么蛋打不烂，煮不熟，更不能吃？",
+        "answer": "考试得的零蛋"
+    },
+    {
+        "question_id": 128,
+        "question": "什么鸡没有翅膀？",
+        "answer": "田鸡"
+    },
+    {
+        "question_id": 129,
+        "question": "小明是高的儿子但是小明却不肯喊他爸爸，为什么？",
+        "answer": "因为高是小明的妈妈"
+    },
+    {
+        "question_id": 130,
+        "question": "江家有三个女儿，大女儿二女儿三女儿。谁的身材最辣？",
+        "answer": "大女儿因为姜还是老的辣"
+    },
+    {
+        "question_id": 131,
+        "question": "移防到马祖的大兵阿明以女友即将生产为由申请返台，为什么却没有被批准？",
+        "answer": "因为马明来到阿祖一超过一年以上，中途不曾返台过"
+    },
+    {
+        "question_id": 132,
+        "question": "一个人有三根头发，为什么他还要剪掉一根？",
+        "answer": "他想做三毛的哥哥"
+    },
+    {
+        "question_id": 133,
+        "question": "哪家人最多？",
+        "answer": "国家"
+    },
+    {
+        "question_id": 134,
+        "question": "有一个穿着泳装的女人，她在松软的沙滩上漫步，这一切虽然都很正常，但是，你会发现她的身后竟然没有脚印！这是为什么？",
+        "answer": "她是倒着走的"
+    },
+    {
+        "question_id": 135,
+        "question": "卖火柴的小女孩如果投胎转世来到现代，最有可能变成什么？",
+        "answer": "兼售打火机的槟榔西施"
+    },
+    {
+        "question_id": 136,
+        "question": "电单车时速八十公里，向北行驶。有时速二十公里的东风，请问电单车的烟，朝那个方向吹？",
+        "answer": "电车是没有烟的"
+    },
+    {
+        "question_id": 137,
+        "question": "从天上飞机里跳出来，最怕遇见什么？",
+        "answer": "忘带降落伞"
+    },
+    {
+        "question_id": 138,
+        "question": "老师出了一道作文，题目是“假如我是个董事长”，同学都用心在写，为什么小强不动手？",
+        "answer": "他在等秘书替他写"
+    },
+    {
+        "question_id": 139,
+        "question": "一个阴森的夜晚，眼前站着长发披肩，身穿白衣脸色苍白的一个女孩，用手去摸她，却摸不着，为什么？",
+        "answer": "中间隔着透明的玻璃窗"
+    },
+    {
+        "question_id": 140,
+        "question": "阿发仔的长相和家人很相象，但大家都说阿发仔不是他们的孩子，为什么？",
+        "answer": "因为他是爸爸"
+    },
+    {
+        "question_id": 141,
+        "question": "在营休假的阿福和阿明，为什么躲在寝室里却搞得流血又流浓的好不畅快？",
+        "answer": "相互挤青春痘"
+    },
+    {
+        "question_id": 142,
+        "question": "为什么有人说：“情人眼里出西施”？",
+        "answer": "因为爱情使人盲目"
+    },
+    {
+        "question_id": 143,
+        "question": "阿珠结婚后，为什么宁愿睡地板也不肯跟丈夫睡水床？",
+        "answer": "她有晕船的毛病"
+    },
+    {
+        "question_id": 144,
+        "question": "自古以来男人都自称女人是祸水，但为什么男人还是要娶女人呢？",
+        "answer": "因患得福"
+    },
+    {
+        "question_id": 145,
+        "question": "爸爸丢了一样东西，为什么妈妈还特别高兴？",
+        "answer": "他丢掉了坏习惯"
+    },
+    {
+        "question_id": 146,
+        "question": "安妮的医师男友到外地出差一年，每两天会写一封情书给安妮，请问两个月之后，安妮会收到几封情书？",
+        "answer": "一封也没有，他太懒了，一封也没有寄"
+    },
+    {
+        "question_id": 147,
+        "question": "碰到什么节的时候，人人都很难过？",
+        "answer": "雨伞节"
+    },
+    {
+        "question_id": 148,
+        "question": "为什么小明拒绝用“一边……一边……”这个词来造句？",
+        "answer": "老师不是说一心不能二用嘛"
+    },
+    {
+        "question_id": 149,
+        "question": "梁山伯和祝英台变成了一对比翼双飞的蝴蝶之后怎样了？",
+        "answer": "生了一堆毛毛虫"
+    },
+    {
+        "question_id": 150,
+        "question": "把一头猪涂满银光粉牵到舞台上是什么？",
+        "answer": "诸葛亮（猪皮革亮）"
+    },
+    {
+        "question_id": 151,
+        "question": "兔子为什么不吃窝边草？",
+        "answer": "如果兔子吃了窝边草的话，那它的窝就没有可以隐藏的东西了"
+    },
+    {
+        "question_id": 152,
+        "question": "用什么方法立刻可以找到遗失的图钉？",
+        "answer": "光着脚走"
+    },
+    {
+        "question_id": 153,
+        "question": "期终考试成绩下来了，平平的四门功课全是零分。老师却说比起某些同学来平平有一条是值得表扬的。老师指的是什么？",
+        "answer": "平平没有作弊"
+    },
+    {
+        "question_id": 154,
+        "question": "如果说儿童是国家未来的栋梁，那么儿童肚子里的蛔虫是什么？",
+        "answer": "当然栋梁的蛀虫了"
+    },
+    {
+        "question_id": 155,
+        "question": "曹兰在马路边拦下一辆计程车，当她坐进车中后立刻被司机赶出来，为什么？",
+        "answer": "因为司机问他去那儿她说不告诉你"
+    },
+    {
+        "question_id": 156,
+        "question": "每个怀孕的女人都常常会去想象孩子未来的长相，为什么只有阿美例外？",
+        "answer": "她到现在还没有想起来他爸爸长得什么样"
+    },
+    {
+        "question_id": 157,
+        "question": "为什么关羽比张飞死的早？",
+        "answer": "红颜薄命"
+    },
+    {
+        "question_id": 158,
+        "question": "当你向别人夸耀你的长处的同时，别人还会知道你的什么？",
+        "answer": "不是哑巴"
+    },
+    {
+        "question_id": 159,
+        "question": "胡瓜一大早起来看见地上躺了一大堆尸体，为什么他毫不在意也不害怕？",
+        "answer": "这是昨天他喷洒杀虫水后今天早上蟑螂全死掉了"
+    },
+    {
+        "question_id": 160,
+        "question": "“先天”是指父母的遗传，那“后天”是什么？",
+        "answer": "明天的明天"
+    },
+    {
+        "question_id": 161,
+        "question": "怎样才能使人有心跳的感觉？",
+        "answer": "活着"
+    },
+    {
+        "question_id": 162,
+        "question": "爬高山与吞药片有什么不同之处？",
+        "answer": "一个太难上一个太难下"
+    },
+    {
+        "question_id": 163,
+        "question": "老师说蚯蚓切成两段仍能再生，小东照老师话去做，蚯蚓却死了，为什么？",
+        "answer": "小东是竖着将蚯蚓切开的"
+    },
+    {
+        "question_id": 164,
+        "question": "电话声大作，却不见小华和哥哥去接电话，这是怎么回事？",
+        "answer": "因为那是电视广告"
+    },
+    {
+        "question_id": 165,
+        "question": "小丽和妈妈买了8个苹果，妈妈让小丽把这些苹果装进5个口袋中，每个口袋里都是双数，你能做到吗？",
+        "answer": "每条口袋各装2个苹果，最后将所有4条口袋装进第5条口袋"
+    },
+    {
+        "question_id": 166,
+        "question": "华先生有个本领，那就是能让见到他的人，都会自动手心朝上。这是怎么回事？",
+        "answer": "因为他是个中医"
+    },
+    {
+        "question_id": 167,
+        "question": "医生给了你三颗药丸要你每半个小时吃一颗请问吃完需要多长时间？",
+        "answer": "一个小时"
+    },
+    {
+        "question_id": 168,
+        "question": "一间牢房中关押着两名犯人，其中一个因偷窃要关一年，另一个是抢动杀人犯，却只关两周，为什么？",
+        "answer": "关两周后木仓决"
+    },
+    {
+        "question_id": 169,
+        "question": "任何人必须去的地方是哪里？",
+        "answer": "厕所"
+    },
+    {
+        "question_id": 170,
+        "question": "什么东西你有，别人也有，虽然是身外之物，却不能交换？",
+        "answer": "姓名"
+    },
+    {
+        "question_id": 171,
+        "question": "战场上，子弹最密集的地方在哪里？",
+        "answer": "在丹药运输车上"
+    },
+    {
+        "question_id": 172,
+        "question": "太阳和月亮在一起是哪一天？",
+        "answer": "明天"
+    },
+    {
+        "question_id": 173,
+        "question": "什么桥下没水？",
+        "answer": "立交桥"
+    },
+    {
+        "question_id": 174,
+        "question": "小明在一场激烈木仓战后，身中数弹，血流如注，然而他仍能精神百倍地回家吃饭，为什么？",
+        "answer": "他在拍戏"
+    },
+    {
+        "question_id": 175,
+        "question": "什么英文字母最多人喜欢听？",
+        "answer": "cd"
+    },
+    {
+        "question_id": 176,
+        "question": "什么酒不能喝？",
+        "answer": "碘酒"
+    },
+    {
+        "question_id": 177,
+        "question": "什么东西咬牙切齿？",
+        "answer": "拉链"
+    },
+    {
+        "question_id": 178,
+        "question": "森林里有一条眼镜蛇，可是它从来不咬人，这是为什么呢？",
+        "answer": "森林里没人"
+    },
+    {
+        "question_id": 179,
+        "question": "我有九个苹果，却必须分给十三个小朋友，我该怎么办？",
+        "answer": "榨成果汁"
+    },
+    {
+        "question_id": 180,
+        "question": "为什么小明4岁就当了“爸爸”？",
+        "answer": "在做“过家家游戏”时"
+    },
+    {
+        "question_id": 181,
+        "question": "一场大雨，忙着栽种的农民纷纷躲避，却仍有一人不走，为什么？",
+        "answer": "稻草人"
+    },
+    {
+        "question_id": 182,
+        "question": "小华在家里，和谁长得最像？",
+        "answer": "和镜中的小华"
+    },
+    {
+        "question_id": 183,
+        "question": "小明的肚子明明已经胀得受不了了，为什么他还要不停地猛喝水？",
+        "answer": "他掉进河里了"
+    },
+    {
+        "question_id": 184,
+        "question": "两对父子去买帽子，为什么只买了三顶？",
+        "answer": "是祖孙三人"
+    },
+    {
+        "question_id": 185,
+        "question": "沙沙声称自我是辨别母鸡年龄的专家，其绝招是用牙齿，为什么？",
+        "answer": "把鸡吃了亲口辨认母鸡的老嫩"
+    },
+    {
+        "question_id": 186,
+        "question": "下雪天，阿文开了暖气，关上门窗，为什么还感到很冷？",
+        "answer": "他在门外"
+    },
+    {
+        "question_id": 187,
+        "question": "买来煮了它，煮好丢了它，这东西是什么？",
+        "answer": "药草"
+    },
+    {
+        "question_id": 188,
+        "question": "马亚买了新音响，电源开了录音带也放了，为什么没有声音呢？",
+        "answer": "停电了"
+    },
+    {
+        "question_id": 189,
+        "question": "用椰子和西瓜打头哪一个比较疼？",
+        "answer": "头比较疼"
+    },
+    {
+        "question_id": 190,
+        "question": "什么人一年只上一天班？",
+        "answer": "圣诞老人"
+    },
+    {
+        "question_id": 191,
+        "question": "警方发现一齐智能杀人案，现场没有留下线索，也找不到目击者，但一个小时后警方宣布破案，为什么？",
+        "answer": "凶手自首了"
+    },
+    {
+        "question_id": 192,
+        "question": "我不会轻功，但一只脚搭在鸡蛋上，鸡蛋不会破，这是为什么？",
+        "answer": "另一只脚站在地上"
+    },
+    {
+        "question_id": 193,
+        "question": "袋鼠和猴子参加跳高比赛，为什么猴子一开始就赢了？",
+        "answer": "袋鼠双脚起跳犯规"
+    },
+    {
+        "question_id": 194,
+        "question": "什么事每人每一天都必须认真的做？",
+        "answer": "睡觉"
+    },
+    {
+        "question_id": 195,
+        "question": "为什么全世界的母鸡都是短腿？",
+        "answer": "这样鸡蛋就不会摔破"
+    },
+    {
+        "question_id": 196,
+        "question": "在一个寒冷冬日清晨，有一位西装革履的先生在河里拼命游水，你说这是为什么？",
+        "answer": "他不细心掉进河里了"
+    },
+    {
+        "question_id": 197,
+        "question": "什么“贼”不偷东西，专门卖东西？",
+        "answer": "卖国贼"
+    },
+    {
+        "question_id": 198,
+        "question": "大部分人出生在什么地方？",
+        "answer": "产床上"
+    },
+    {
+        "question_id": 199,
+        "question": "在地上有元钱和一块肉骨头，可是阿明却拣起了肉骨头而没有捡钱，为什么？",
+        "answer": "那里的“阿明”是条狗的名字"
+    },
+    {
+        "question_id": 200,
+        "question": "幼儿园放学了，但却没有一个小朋友从大门出去，是怎样回事呢？",
+        "answer": "大门检修，请走侧门"
+    },
+    {
+        "question_id": 201,
+        "question": "小张走路从来脚不沾地，这是为什么？",
+        "answer": "因为穿着鞋"
+    },
+    {
+        "question_id": 202,
+        "question": "为什么彤彤与壮壮第一次见面就一口咬定壮壮是喝羊奶长大的？",
+        "answer": "壮壮是一头羊"
+    },
+    {
+        "question_id": 203,
+        "question": "一个人去网吧，碰上一个同学带着两个朋友，各带着个小孩，小孩个带着个朋友，问多少人去网吧？",
+        "answer": "一个人，其它人没说去"
+    },
+    {
+        "question_id": 204,
+        "question": "小偷从现场逃走，为什么没有留下脚印？",
+        "answer": "倒着走的"
+    },
+    {
+        "question_id": 205,
+        "question": "威尼斯画派的代表是谁？",
+        "answer": "提香"
+    },
+    {
+        "question_id": 206,
+        "question": "有一个眼睛瞎了的人，走到山崖边上，突然停住了，然后往回走，为什么？",
+        "answer": "他瞎了一只眼"
+    },
+    {
+        "question_id": 207,
+        "question": "如果动物园失火了，最先逃出来的哪一种动物？",
+        "answer": "人"
+    },
+    {
+        "question_id": 208,
+        "question": "一个圆画在哪里永远走不出去？",
+        "answer": "腰上"
+    },
+    {
+        "question_id": 209,
+        "question": "为什么警察对闯红灯的汽车司机视而不见？",
+        "answer": "汽车司机没开车"
+    },
+    {
+        "question_id": 210,
+        "question": "比眼大的东西是什么？",
+        "answer": "眼皮"
+    },
+    {
+        "question_id": 211,
+        "question": "什么时候做的事别人看不到？",
+        "answer": "梦里做事"
+    },
+    {
+        "question_id": 212,
+        "question": "盲人都是怎样吃桔子的？",
+        "answer": "瞎掰"
+    },
+    {
+        "question_id": 213,
+        "question": "有一块天然的黑色的大理石，在九月七号这一天，把它扔到钱塘江里会有什么现象发生？",
+        "answer": "沉到江底"
+    },
+    {
+        "question_id": 214,
+        "question": "冰变成水最快的方法是什么？",
+        "answer": "去掉冰字哪二点"
+    },
+    {
+        "question_id": 215,
+        "question": "小王是一名优秀士兵，一天他在站岗值勤时，明明看到有敌人悄悄向他摸过来，为什么他却睁一只眼闭一只眼？",
+        "answer": "因为他正在瞄准"
+    },
+    {
+        "question_id": 216,
+        "question": "有一个人，他是你父母生的，但他却不是你的兄弟姐妹，他是谁？",
+        "answer": "你自己"
+    },
+    {
+        "question_id": 217,
+        "question": "什么东西天气越热，它爬的越高？",
+        "answer": "漫度计"
+    },
+    {
+        "question_id": 218,
+        "question": "什么东西在倒立之后会增加一半？",
+        "answer": "数字6"
+    },
+    {
+        "question_id": 219,
+        "question": "为什么人们要到市场上去？",
+        "answer": "因为市场上有“市”"
+    }
+]
